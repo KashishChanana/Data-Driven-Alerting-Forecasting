@@ -17,7 +17,7 @@ Download and Install PyCharm from https://www.jetbrains.com/pycharm/download/#se
 Step 1 : In PyCharm, create a new project using Conda environment as below-
 
 <p align="center">
-  <img src="conda_create_env.png" width="350" title="hover text">
+  <img src="conda_create_project.png" width="350" title="hover text">
 </p>
 
 Step 2: Clone this repository in the project terminal
